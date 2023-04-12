@@ -15,12 +15,13 @@ body {
   transform-style: preserve-3d;
   transform: perspective(2500px);
   transition: 1s;
-
+ 
 }
 
 .birthdayCard:hover {
   transform: perspective(2500px) rotate(5deg);
   box-shadow: inset 100px 20px 100px rgba(0,0,0,.2), 0 10px 100px rgba(0,0,0,0.5);
+ 
 }
 
 .birthdayCard:hover .cardFront {
@@ -50,7 +51,8 @@ body {
   transition: .1s;
   font-size: 25px;
   -webkit-text-fill-color: white; 
-  -webkit-text-stroke-width: 3px;
+  -webkit-text-stroke-width: 2px;
+  outline: 3px solid #000;
 }
 
 .balloons {
@@ -92,11 +94,12 @@ body {
 .balloonOne:before, .balloonTwo:before, .balloonThree:before, .balloonFour:before {
   content:"";
   position: absolute;
-  width:3px;
+  width:2px;
   height: 155px;
   background-color: #ffd166;
-  top:95px;
+  top:97px;
   left:43px;
+  outline: 2px solid #000;
 }
 
 .balloonOne:after, .balloonTwo:after, .balloonThree:after, .balloonFour:after {
@@ -147,6 +150,7 @@ p {
   left:150px;
   top:200px;
   color: #000;
+  text-align: right;
 }
 
 .back {
@@ -157,4 +161,24 @@ p {
   outline-color:#000;
   outline-style: dotted;
    
+}
+
+#confetti {
+align-self: end;
+background-color: black;
+color: white;
+height: 20px;
+outline-color:gold;
+outline-style: solid;
+align-items: center;
+position: absolute;
+font-size: large;
+font-weight: bold;
+cursor: pointer;
+padding-bottom: 1%;
+  
+}
+
+#confetti:hover{
+background-color: blue;
 }
