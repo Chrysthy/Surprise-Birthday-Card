@@ -11,3 +11,9 @@
 
 <br> 
  <p align="center">  <img hight="500px" width="500px" src="https://i.pinimg.com/736x/00/67/97/006797173a12d46c9722d2e64dd12010.jpg"> </p>
+
+
+<br>
+<hr>
+<h2> Support </h2>
+<p> If you liked it, press the Star ⭐ Button, please! 😄 </p>
