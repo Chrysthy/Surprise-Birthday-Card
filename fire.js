@@ -1,4 +1,6 @@
 import JSConfetti from "https://cdn.jsdelivr.net/npm/js-confetti@latest/dist/js-confetti.browser.js"
+import JSConfetti from 'js-confetti'
+
 const jsConfetti = new JSConfetti()
 
 document.getElementById("confetti").addEventListener("click", Confetti)
