@@ -1,9 +1,9 @@
-<script src="https://cdn.jsdelivr.net/npm/js-confetti@latest/dist/js-confetti.browser.js"></script>
+import JSConfetti from "https://cdn.jsdelivr.net/npm/js-confetti@latest/dist/js-confetti.browser.js"
 const jsConfetti = new JSConfetti()
 
-document.getElementById("confetti-button").addEventListener("click", fireConfetti)
+document.getElementById("confetti").addEventListener("click", Confetti)
 
-function fireConfetti() {
+function Confetti() {
     jsConfetti.addConfetti({
         confettiRadius: 1,
         confettiColors: [
