@@ -6,7 +6,7 @@ const jsConfetti = new JSConfetti()
 
 jsConfetti.addConfetti()
 
-document.getElementById("confetti-button").addEventListener("click", Confetti)
+document.getElementById("confetti-button").addEventListener("click", fireConfetti)
 
 function Confetti() {
     jsConfetti.addConfetti({
