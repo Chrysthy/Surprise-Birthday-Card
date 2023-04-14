@@ -1,8 +1,7 @@
-
-
-
-
 function fireConfetti(event) {
+    
+    let confetti = document.getElementById('confetti').value;
+    
     jsConfetti.addConfetti({
         confettiRadius: 1,
         confettiColors: [
