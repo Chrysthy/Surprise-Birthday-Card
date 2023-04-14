@@ -1,16 +1,16 @@
-import JSConfetti from "js-confetti"
+import JSConfetti from 'js-confetti'
 const jsConfetti = new JSConfetti()
 
-document.getElementById("confetti").addEventListener("click", fireConfetti)
+document.getElementById("confetti-button").addEventListener("click", fireConfetti)
 
-function Confetti() {
+function fireConfetti() {
     jsConfetti.addConfetti({
         confettiRadius: 1,
         confettiColors: [
             '#000', 'hotpink', 'gold'
         ],
         confettiNumber: 100,
-        emojis: ['💜', '✨', '🎉', '🔥'],
+        emojis: ['💜', '✨', '🎉', '🎂'],
         emojiSize: 100,
     })
 
