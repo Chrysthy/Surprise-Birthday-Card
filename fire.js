@@ -1,7 +1,9 @@
-function fireConfetti(event) {
-    
-    let confetti = document.getElementById('confetti').value;
-    
+import JSConfetti from 'js-confetti'
+const jsConfetti = new JSConfetti()
+
+document.getElementById("confetti-button").addEventListener("click", fireConfetti)
+
+function Confetti() {
     jsConfetti.addConfetti({
         confettiRadius: 1,
         confettiColors: [
@@ -13,6 +15,3 @@ function fireConfetti(event) {
     })
 
 }
-
-
-document.getElementById("confetti-button").addEventListener("click", fireConfetti)
