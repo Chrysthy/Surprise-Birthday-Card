@@ -1,7 +1,7 @@
-import JSConfetti from 'js-confetti'
+import JSConfetti from "js-confetti"
 const jsConfetti = new JSConfetti()
 
-document.getElementById("confetti-button").addEventListener("click", fireConfetti)
+document.getElementById("confetti").addEventListener("click", fireConfetti)
 
 function Confetti() {
     jsConfetti.addConfetti({
