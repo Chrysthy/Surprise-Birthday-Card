@@ -1,4 +1,12 @@
-import JSConfetti from "./node_modules/js-confetti";
+import JSConfetti from 'js-confetti'
+
+const jsConfetti = new JSConfetti()
+
+jsConfetti.addConfetti()
+
+const canvas = document.getElementById('confetti-button')
+
+const jsConfetti = new JSConfetti({ canvas })
 
 const jsConfetti = new JSConfetti();
 
