@@ -1,6 +1,8 @@
 <h1 align="center"> Birthday Card </h1> 
 
-<p align="center">Surprise Birthday Card - 04/12/2023 🧧</p>
+<h2 align="center">Surprise Birthday Card - 04/12/2023 🧧</h2>
+
+<br>
 
 <p  align="center"> A special person was born today. I am proud of myself and who I have become over the years. On this special occasion in my life, I pray for nothing else than the guidance of the Lord in everything I do and every path I take. A new cycle begins with new opportunities. </p>
 
@@ -20,7 +22,7 @@
 </p>
 
 <p align="center">
-  <img alt="Imagem de Vector Stock" src="https://i.pinimg.com/736x/00/67/97/006797173a12d46c9722d2e64dd12010.jpg" width="80%">
+  <img alt="Imagem de Vector Stock" src="https://i.pinimg.com/736x/00/67/97/006797173a12d46c9722d2e64dd12010.jpg" width="50%">
 </p>
 
 <p> Picture: Credits to the author Vector Stock. </p
