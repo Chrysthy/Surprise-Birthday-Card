@@ -2,10 +2,11 @@
 
 <p align="center">Surprise Birthday Card - 04/12/2023 🧧</p>
 
-<p> A special person was born today. I am proud of myself and who I have become over the years. On this special occasion in my life, I pray for nothing else than the guidance of the Lord in everything I do and every path I take. A new cycle begins with new opportunities. </p>
+<p  align="center"> A special person was born today. I am proud of myself and who I have become over the years. On this special occasion in my life, I pray for nothing else than the guidance of the Lord in everything I do and every path I take. A new cycle begins with new opportunities. </p>
 
-<p> I started programming a few months ago and I know it's hard but I'll do my best to reach my goal. </P>
-  
+<p  align="center"> I started programming a few months ago and I know it's hard but I'll do my best to reach my goal. </P>
+
+<br>
 
 <p align="center">  
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -36,4 +37,26 @@
 - Git e GitHub.
 
 <br>
+
+
+## ✨ Features
+
+- [X] Create a Fire Confetti button
+
+
+<br>
+
+## 💻 Project
+
+- The website was created to practice HTML, CSS, JavaScript, Node and JSON skills.
+
+<br>
+
+
+
+
+
+
+
+
 
