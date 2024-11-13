@@ -24,6 +24,10 @@
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=c920c9&labelColor=000000">
 </p>
 
+## 📸 Screenshots
+
+<br>
+
 <p align="center">
   <img alt="Imagem de Vector Stock" src="https://i.pinimg.com/736x/00/67/97/006797173a12d46c9722d2e64dd12010.jpg" width="50%">
 </p>
@@ -63,12 +67,10 @@
 
 <br>
 
-<hr>
-
 <h2> Suggestions </h2>
 <p> Do you want to add or report an error? Please, feel free to do it! 😉 </p>
 
-<br>
+<br>**
 
 <hr>
 
