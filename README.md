@@ -67,10 +67,10 @@
 
 <br>
 
-<h2> Suggestions </h2>
-<p> Do you want to add or report an error? Please, feel free to do it! 😉 </p>
+## 🫱🏻‍🫲🏻 Contributing
+<p> Contributions, issues, and feature requests are welcome! Please, feel free to do it! 😉 </p>
 
-<br>**
+<br>
 
 <hr>
 
